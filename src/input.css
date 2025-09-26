@@ -33,7 +33,7 @@ h2 {
   @apply translate-x-0 block opacity-100
 }
 .house-tabs .list li.is-active a {
-  @apply bg-[#68bd44] text-black/80 rounded-md
+  @apply bg-[#68bd44] text-black/80 rounded-4xl
  }
 
  .animate span { transition: color 0.5s; }
